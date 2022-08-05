@@ -2,6 +2,7 @@
 Notebook to design stock charts for a presentation
 
 Checkout [Demo](https://moneyaccounts.com/)
+<br />
 [Installation Guide](https://moneyaccounts.com/)
 
 
